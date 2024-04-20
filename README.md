@@ -6,3 +6,6 @@ This is table form
 
 **this text is bold**
 *this text is italic*
+
+
+![Coding](https://miro.medium.com/v2/resize:fit:1200/1*P_H_UpQahH0juwQpXWXnpQ.jpeg)
